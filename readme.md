@@ -1,5 +1,7 @@
 # Tab Navigation with Gesture
 
+Use expo prebuild
+
 # Font
 https://github.com/JairajJangle/react-native-navigation-mode
 
